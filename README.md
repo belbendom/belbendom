@@ -1,4 +1,4 @@
-<h1 align="left">Miguel de Celis</h1>
+<h1 align="left">Belén Benítez Domínguez</h1>
 
 ![MasterHead](https://github.com/Migueldc1/Migueldc1/blob/main/Figures/biofilm.png)
 <div align="justify">
