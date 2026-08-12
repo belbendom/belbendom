@@ -1,10 +1,6 @@
 <img src="banner.png" alt="" width="100%"/>
 
-<!--
-  OPCIONAL: foto de perfil. Sube tu foto (p.ej. foto.jpg) y
-  descomenta la línea de abajo.
--->
-<!-- <img src="foto.jpg" alt="Belén Benítez Domínguez" width="140" style="border-radius:50%"/> -->
+<img src="Foto Belén Web.png" alt="Belén Benítez Domínguez" width="140" style="border-radius:50%"/>
 
 <h1 align="left">Belén Benítez Domínguez</h1>
 
