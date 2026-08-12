@@ -1,6 +1,4 @@
-<img src="banner.png" alt="" width="100%"/>
-
-<img src="Foto Belén Web.png" alt="Belén Benítez Domínguez" width="140" style="border-radius:50%"/>
+<img src="banner_foto.png" alt="" width="100%"/>
 
 <h1 align="left">Belén Benítez Domínguez</h1>
 
