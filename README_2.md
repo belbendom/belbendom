@@ -49,7 +49,7 @@ The two lines share a goal: connecting the ecology of fermenting communities wit
 <h2 align="left">Contact</h2>
 <div align="">
 
-<a href="mailto:[TU-EMAIL]"><img align="center" src="https://img.shields.io/badge/Email-Contacto-informational?style=flat&logo=gmail&logoColor=white" height="28"/></a>
+<a href="mailto:[belbendom@usal.es]"><img align="center" src="https://img.shields.io/badge/Email-Contacto-informational?style=flat&logo=gmail&logoColor=white" height="28"/></a>
 <a href="https://orcid.org/0009-0005-2209-9739"><img align="center" src="https://img.shields.io/badge/ORCID-0009--0005--2209--9739-a6ce39?style=flat&logo=orcid&logoColor=white" height="28"/></a>
 <a href="https://www.linkedin.com/in/bel%C3%A9n-ben%C3%ADtez-dom%C3%ADnguez-55704a191/"><img align="center" src="https://img.shields.io/badge/LinkedIn-Perfil-0077b5?style=flat&logo=linkedin&logoColor=white" height="28"/></a>
 <a href="[TU-GOOGLE-SCHOLAR]"><img align="center" src="https://img.shields.io/badge/Scholar-Publicaciones-4285f4?style=flat&logo=googlescholar&logoColor=white" height="28"/></a>
