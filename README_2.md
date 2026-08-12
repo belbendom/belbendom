@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-Predoctoral researcher (FPI) at the Institute of Functional Biology and Genomics ([IBFG-CSIC](https://www.usal.es/instituto-de-biologia-funcional-y-genomica), Salamanca), in the group of Álvaro Sánchez. I study the microbial ecology and evolutionary engineering of wine-fermenting yeast communities, within the **MICROBREED** project.
+Predoctoral researcher (FPI) at the Institute of Functional Biology and Genomics ([IBFG-CSIC](https://ibfg.usal-csic.es/alvaro-sanchez/), Salamanca), in the group of Álvaro Sánchez. I study the microbial ecology and evolutionary engineering, mainly in wine-fermenting yeast communities.
 
 </div>
 
