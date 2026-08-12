@@ -1,16 +1,3 @@
-<!--
-  ============================================================
-  README DE PERFIL DE GITHUB  ·  usuario: belbendom
-  Crea un repositorio PÚBLICO llamado EXACTAMENTE "belbendom"
-  y guarda este archivo dentro como README.md.
-  Los [CORCHETES] son los huecos por rellenar.
-  ============================================================
--->
-
-<!--
-  Cabecera. Sube banner.png al repo (a la raíz, junto a este
-  README). Si lo pones en una carpeta, ajusta la ruta.
--->
 <img src="banner.png" alt="" width="100%"/>
 
 <!--
